@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local config
+local.properties
+
+# Keystore (VERY IMPORTANT)
+*.jks
+*.keystore
+
+# APK / Release outputs
+*.apk
+*.aab
+app/release/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML models 
+*.pt
+*.pkl
